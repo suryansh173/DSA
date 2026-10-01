@@ -24,3 +24,19 @@ Each accepted submission is pushed into its own folder:
 │   └── add-two-numbers.cpp
 └── ...
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+<!---LeetCode Topics End-->
