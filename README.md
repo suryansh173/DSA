@@ -1,0 +1,26 @@
+# LeetCode Solutions
+
+My daily LeetCode solutions in C++, synced automatically with [LeetHub](https://github.com/QasimWani/LeetHub).
+
+![Language](https://img.shields.io/badge/language-C++-00599C?logo=cplusplus&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/suryansh173/DSA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/suryansh173/)
+
+## Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/suryansh173?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/suryansh173/)
+
+## Structure
+
+Each accepted submission is pushed into its own folder:
+
+```
+.
+├── 0001-two-sum/
+│   ├── README.md        # problem statement
+│   └── two-sum.cpp      # solution
+├── 0002-add-two-numbers/
+│   ├── README.md
+│   └── add-two-numbers.cpp
+└── ...
+```
