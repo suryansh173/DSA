@@ -39,4 +39,8 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/suryansh173/DSA/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
