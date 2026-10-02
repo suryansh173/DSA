@@ -52,14 +52,21 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/suryansh173/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/suryansh173/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
