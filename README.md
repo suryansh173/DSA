@@ -44,4 +44,20 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/suryansh173/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/suryansh173/DSA/tree/main/0184-department-highest-salary/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
