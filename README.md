@@ -48,24 +48,28 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/suryansh173/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suryansh173/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/suryansh173/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/suryansh173/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
