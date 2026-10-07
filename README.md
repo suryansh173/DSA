@@ -135,4 +135,12 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryansh173/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/suryansh173/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/suryansh173/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
