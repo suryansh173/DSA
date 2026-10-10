@@ -94,6 +94,7 @@ Each accepted submission is pushed into its own folder:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
