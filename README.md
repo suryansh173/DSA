@@ -36,6 +36,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryansh173/DSA/tree/main/0018-4sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
@@ -155,6 +156,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/suryansh173/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
