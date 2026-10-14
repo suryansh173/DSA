@@ -30,6 +30,7 @@ public:
         delete nodeToDelete;
 
         ListNode* newHead = dummy->next;
+        delete dummy; 
         return newHead;
         
  }
