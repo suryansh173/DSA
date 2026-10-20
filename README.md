@@ -42,6 +42,7 @@ Each accepted submission is pushed into its own folder:
 | [0234-palindrome-linked-list](https://github.com/suryansh173/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/suryansh173/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Each accepted submission is pushed into its own folder:
 | [0203-remove-linked-list-elements](https://github.com/suryansh173/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/suryansh173/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/suryansh173/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/suryansh173/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
