@@ -1,52 +1,52 @@
 class Solution {
 private:
-    void merge(vector<int>& nums, int left, int mid, int right) {
-        vector<int> leftArr(nums.begin() + left, nums.begin() + mid + 1);
-        vector<int> rightArr(nums.begin() + mid + 1, nums.begin() + right + 1);
+    void merge(vector<int>& nums, vector<int>& temp, int left, int mid, int right) 
+    {
+        int i = left;    
+        int j = mid;     
+        int k = left;    
+        while(i< mid &&j < right) 
+        {if(nums[i] <=nums[j]) 
+        {temp[k] = nums[i];
+        k++,i++; } 
+        else 
+        {temp[k] = nums[j];
+        k++,j++; }
+        }
+        while(i < mid) 
+        {
+            temp[k] = nums[i];
+            k++,i++;
+        }
+        while(j < right) 
+        {
+            temp[k] = nums[j];
+            k++,j++;
+        }
 
-        int i = 0;       // Pointer for leftArr
-        int j = 0;       // Pointer for rightArr
-        int k = left;    // Pointer for main nums array
+        for(int idx =left;idx < right;idx++) 
+        {
+            nums[idx] = temp[idx];
+        }
+    }
+public:
+    vector<int> sortArray(vector<int>& nums) {
+    int n = nums.size();
+    if(n <= 1) return nums;  
+      vector<int> temp(n);
 
-         while (i < leftArr.size() && j < rightArr.size()) {
-            if (leftArr[i] <= rightArr[j]) {
-                nums[k] = leftArr[i];
-                k++;
-                i++;
-            } else {
-                nums[k] = rightArr[j];
-                k++;
-                j++;
+      for(int width = 1; width < n; width *= 2) 
+      {for(int i = 0; i < n; i += 2 * width) 
+            {int left = i;
+            int mid = min(i + width, n);
+            int right = min(i + 2 * width, n);
+               
+                if (mid < right) 
+                {
+                    merge(nums, temp, left, mid, right);}
             }
         }
 
-         while (i < leftArr.size()) {           // copy remaining in leftarr
-            nums[k++] = leftArr[i++];
-        }
-
-         while (j < rightArr.size()) {           // copy remaining in righttarr
-            nums[k++] = rightArr[j++];
-        }
-    }
-
-
-     void mergeSort(std::vector<int>& nums, int left, int right) {
-        if (left >= right) return;
-        
-        int mid = left + (right - left) / 2;
-        
-        // Dividing here
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-        
-        // Merging here
-        merge(nums, left, mid, right);
-    }
-
-public:
-    vector<int> sortArray(vector<int>& nums) {
-        if (nums.empty()) return nums;
-        mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
 };
