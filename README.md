@@ -31,6 +31,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryansh173/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ Each accepted submission is pushed into its own folder:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
@@ -206,5 +208,6 @@ Each accepted submission is pushed into its own folder:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
