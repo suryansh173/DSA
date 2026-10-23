@@ -32,6 +32,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryansh173/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/suryansh173/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -209,5 +210,6 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/suryansh173/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
