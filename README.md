@@ -100,6 +100,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryansh173/DSA/tree/main/0018-4sum/) | Medium |
 | [0055-jump-game](https://github.com/suryansh173/DSA/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -146,6 +147,7 @@ Each accepted submission is pushed into its own folder:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/suryansh173/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
