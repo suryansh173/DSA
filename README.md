@@ -109,6 +109,7 @@ Each accepted submission is pushed into its own folder:
 | [0055-jump-game](https://github.com/suryansh173/DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -202,6 +203,7 @@ Each accepted submission is pushed into its own folder:
 | [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/suryansh173/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryansh173/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ Each accepted submission is pushed into its own folder:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
