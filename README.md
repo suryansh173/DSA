@@ -118,6 +118,7 @@ Each accepted submission is pushed into its own folder:
 | [0073-set-matrix-zeroes](https://github.com/suryansh173/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/suryansh173/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -130,6 +131,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0191-number-of-1-bits](https://github.com/suryansh173/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -144,12 +146,14 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/suryansh173/DSA/tree/main/0018-4sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -264,4 +268,8 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suryansh173/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
