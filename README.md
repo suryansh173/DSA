@@ -124,6 +124,7 @@ Each accepted submission is pushed into its own folder:
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryansh173/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
@@ -149,6 +150,7 @@ Each accepted submission is pushed into its own folder:
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Each accepted submission is pushed into its own folder:
 | [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryansh173/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
