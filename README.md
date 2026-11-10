@@ -51,6 +51,7 @@ Each accepted submission is pushed into its own folder:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Database
@@ -76,6 +77,7 @@ Each accepted submission is pushed into its own folder:
 | [0110-balanced-binary-tree](https://github.com/suryansh173/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryansh173/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/suryansh173/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryansh173/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -101,6 +103,7 @@ Each accepted submission is pushed into its own folder:
 | [0110-balanced-binary-tree](https://github.com/suryansh173/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryansh173/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/suryansh173/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryansh173/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/suryansh173/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -268,6 +271,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/suryansh173/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/suryansh173/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
