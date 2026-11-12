@@ -66,6 +66,7 @@ Each accepted submission is pushed into its own folder:
 | [0144-binary-tree-preorder-traversal](https://github.com/suryansh173/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryansh173/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/suryansh173/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/suryansh173/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/suryansh173/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -191,10 +192,12 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryansh173/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/suryansh173/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryansh173/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/suryansh173/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
