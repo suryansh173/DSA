@@ -53,6 +53,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/suryansh173/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Each accepted submission is pushed into its own folder:
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/suryansh173/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryansh173/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
