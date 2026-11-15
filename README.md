@@ -267,6 +267,7 @@ Each accepted submission is pushed into its own folder:
 | [0168-excel-sheet-column-title](https://github.com/suryansh173/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/suryansh173/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +295,8 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/suryansh173/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
