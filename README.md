@@ -35,6 +35,7 @@ Each accepted submission is pushed into its own folder:
 | [0070-climbing-stairs](https://github.com/suryansh173/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/suryansh173/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0292-nim-game](https://github.com/suryansh173/DSA/tree/main/0292-nim-game/) | Easy |
+| [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Each accepted submission is pushed into its own folder:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ Each accepted submission is pushed into its own folder:
 | [0168-excel-sheet-column-title](https://github.com/suryansh173/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/suryansh173/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
