@@ -50,6 +50,7 @@ Each accepted submission is pushed into its own folder:
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suryansh173/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/suryansh173/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryansh173/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Each accepted submission is pushed into its own folder:
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/suryansh173/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryansh173/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -252,6 +254,7 @@ Each accepted submission is pushed into its own folder:
 | [0055-jump-game](https://github.com/suryansh173/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ Each accepted submission is pushed into its own folder:
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
+| [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
