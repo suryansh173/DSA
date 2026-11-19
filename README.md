@@ -37,6 +37,7 @@ Each accepted submission is pushed into its own folder:
 | [0292-nim-game](https://github.com/suryansh173/DSA/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/suryansh173/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Each accepted submission is pushed into its own folder:
 | [0875-koko-eating-bananas](https://github.com/suryansh173/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryansh173/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -162,6 +164,7 @@ Each accepted submission is pushed into its own folder:
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Heap (Priority Queue)
@@ -255,11 +258,13 @@ Each accepted submission is pushed into its own folder:
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,4 +332,8 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/suryansh173/DSA/tree/main/0292-nim-game/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
