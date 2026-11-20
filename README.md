@@ -131,6 +131,7 @@ Each accepted submission is pushed into its own folder:
 | [0128-longest-consecutive-sequence](https://github.com/suryansh173/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0260-single-number-iii](https://github.com/suryansh173/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -295,6 +296,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/suryansh173/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/suryansh173/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0260-single-number-iii](https://github.com/suryansh173/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/suryansh173/DSA/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
