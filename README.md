@@ -53,6 +53,7 @@ Each accepted submission is pushed into its own folder:
 | [0876-middle-of-the-linked-list](https://github.com/suryansh173/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryansh173/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suryansh173/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Each accepted submission is pushed into its own folder:
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryansh173/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/suryansh173/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suryansh173/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suryansh173/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
