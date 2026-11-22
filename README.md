@@ -134,6 +134,7 @@ Each accepted submission is pushed into its own folder:
 | [0219-contains-duplicate-ii](https://github.com/suryansh173/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/suryansh173/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/suryansh173/DSA/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/suryansh173/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/suryansh173/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -166,6 +167,7 @@ Each accepted submission is pushed into its own folder:
 | [0018-4sum](https://github.com/suryansh173/DSA/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryansh173/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/suryansh173/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/suryansh173/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -191,6 +193,7 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0561-array-partition](https://github.com/suryansh173/DSA/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/suryansh173/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0055-jump-game](https://github.com/suryansh173/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/suryansh173/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/suryansh173/DSA/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/suryansh173/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
