@@ -287,6 +287,7 @@ Each accepted submission is pushed into its own folder:
 | [0205-isomorphic-strings](https://github.com/suryansh173/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/suryansh173/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/suryansh173/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/suryansh173/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0942-di-string-match](https://github.com/suryansh173/DSA/tree/main/0942-di-string-match/) | Easy |
 ## Sliding Window
@@ -320,6 +321,7 @@ Each accepted submission is pushed into its own folder:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/suryansh173/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/suryansh173/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -345,4 +347,12 @@ Each accepted submission is pushed into its own folder:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/suryansh173/DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/suryansh173/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/suryansh173/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
