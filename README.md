@@ -66,6 +66,7 @@ Each accepted submission is pushed into its own folder:
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/suryansh173/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/suryansh173/DSA/tree/main/0177-nth-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/suryansh173/DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/suryansh173/DSA/tree/main/0184-department-highest-salary/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
