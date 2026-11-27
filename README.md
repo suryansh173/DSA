@@ -64,6 +64,7 @@ Each accepted submission is pushed into its own folder:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/suryansh173/DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/suryansh173/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/suryansh173/DSA/tree/main/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/suryansh173/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
