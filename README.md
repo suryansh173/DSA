@@ -71,6 +71,7 @@ Each accepted submission is pushed into its own folder:
 | [0182-duplicate-emails](https://github.com/suryansh173/DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/suryansh173/DSA/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/suryansh173/DSA/tree/main/0184-department-highest-salary/) | Medium |
+| [0577-employee-bonus](https://github.com/suryansh173/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/suryansh173/DSA/tree/main/0584-find-customer-referee/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
